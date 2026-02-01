@@ -12,20 +12,7 @@
     <artifactId>expression_eval_api</artifactId>
     <version>0.0.1</version>
     <name>expression_eval_api</name>
-    <description>expression_eval_api</description>
-    <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
+    <description>REST API service for evaluating mathematical expressions with persistence and monitoring.</description>
     <properties>
         <java.version>21</java.version>
     </properties>
